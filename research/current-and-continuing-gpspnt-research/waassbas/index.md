@@ -7,8 +7,8 @@ permalink: /research/current-and-continuing-gpspnt-research/waassbas/
   {% include research-sidebar.html %}
 <div class="research-content">
   <h1>WAAS / SBAS</h1>
-  <img src="{{ '/assets/img/research/waas-banner.jpg' | relative_url }}"
-       alt="WAAS / SBAS"
+  <img src="{{ '/assets/img/research/waas-juneau-1.jpg' | relative_url }}"
+       alt="WAAS Juneau Test Flight photos"
        class="research-page-image">
 
   <p class="research-intro">
@@ -21,7 +21,6 @@ permalink: /research/current-and-continuing-gpspnt-research/waassbas/
     receiver noise. For more information see the
     <a href="https://en.wikipedia.org/wiki/Wide_Area_Augmentation_System" target="_blank" rel="noopener">WAAS Wikipedia article</a>.
   </p>
-
   <p>
     Stanford's research in this area started in the early 1990's. After many
     years of research and an arduous certification process, WAAS/SBAS was FAA
@@ -29,23 +28,29 @@ permalink: /research/current-and-continuing-gpspnt-research/waassbas/
     provide meter-level positioning accuracy and +/- 35m real-time error bounds
     with 6-sec time-to-alarm. The system has performed flawlessly since 2003.
   </p>
-
   <p>
     Stanford is continuing to support the FAA with sustaining engineering,
     refinements and enhancements.
   </p>
 
-  <h2 class="research-subheading">More Information about WAAS</h2>
+  <img src="{{ '/assets/img/research/waas-juneau-2.jpg' | relative_url }}"
+       alt="WAAS Juneau Test Flight photos"
+       class="research-content-image">
 
+  <h2 class="research-subheading">More Information about WAAS</h2>
   <h3 class="research-subheading">Videos</h3>
   <ul class="research-link-list">
     <li>
+      <a href="/gpspnt-videos-animations/video-1998-wide-area-differential-gps" target="_blank" rel="noopener">
+        <img src="{{ '/assets/img/research/waas-1998-flight-video-thumb.jpg' | relative_url }}"
+             alt="1998 WAAS Test Flight Play Video button"
+             class="research-content-image">
+      </a>
       <a href="/gpspnt-videos-animations/video-1998-wide-area-differential-gps" target="_blank" rel="noopener">
         1998 Wide Area Differential GPS Flight Testing, Juneau and Sitka, Alaska
       </a>
     </li>
   </ul>
-
   <h3 class="research-subheading">Papers and Presentation Files</h3>
   <ul class="research-link-list">
     <li>
@@ -61,7 +66,6 @@ permalink: /research/current-and-continuing-gpspnt-research/waassbas/
       </a>, Stanford University, November 2012
     </li>
   </ul>
-
   <h3 class="research-subheading">WAAS Metrics Files &amp; Stanford Triangle Charts</h3>
   <p>
     For information about generating Stanford Triangle Charts using Matlab,

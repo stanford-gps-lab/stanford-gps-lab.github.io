@@ -62,28 +62,6 @@ including:
 
 ---
 
-## Related Research
-
-- GBAS / LAAS
-- RAIM / ARAIM
-- Multi-Constellation GNSS
-- Integrity Monitoring
-- Precision Aircraft Landing
-
----
-
-## Selected Publications
-
-*Publications related to WAAS will be listed here.*
-
-```
-{% assign pubs = site.publications | where_exp:"item","item.tags contains 'WAAS'" %}
-```
-
-(or whatever publication organization you decide to use later.)
-
----
-
 ## Additional Resources
 
 * Add presentations

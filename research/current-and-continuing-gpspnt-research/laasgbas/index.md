@@ -7,9 +7,6 @@ permalink: /research/current-and-continuing-gpspnt-research/laasgbas/
   {% include research-sidebar.html %}
 <div class="research-content">
   <h1>LAAS / GBAS</h1>
-  <img src="{{ '/assets/img/research/laas-banner.jpg' | relative_url }}"
-       alt="LAAS / GBAS"
-       class="research-page-image">
 
   <p class="research-intro">
     The Local Area Augmentation System (LAAS), now more commonly known as the

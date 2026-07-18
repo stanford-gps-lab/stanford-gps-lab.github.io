@@ -1610,6 +1610,12 @@ main h1:first-of-type {
   border-radius: 6px;
 }
 
+.research-content p,
+.research-content li {
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+
 @media (max-width: 900px) {
   .research-layout {
     grid-template-columns: 1fr;

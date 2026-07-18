@@ -8614,10 +8614,10 @@
 - year: 1991
   month: September
   first_author_last: "Cohen"
-  category: journal
+  category: conference
   authors: "Cohen, Clark E. and Parkinson, Bradford W."
   title: "Expanding the Performance Envelope of GPS-Based Attitude Determination"
-  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the ION/GPS Conference, Albuquerque, New Mexico, September 1991."
+  citation: "Presented at the ION/GPS Conference, Albuquerque, New Mexico, September 1991."
   url: "http://www.ion.org/publications/abstract.cfm?articleID=4894"
 
 - year: 1990
@@ -8635,7 +8635,7 @@
   category: conference
   authors: "Kee, Changdon, Parkinson, Bradford W., and Axelrad, Penina"
   title: "Wide Area Differential GPS"
-  citation: "Presented at the Institute of Navigation Satellite Division 3rd International Technical Meeting, Colorado Springs, Colorado, September 1990."
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the Institute of Navigation Satellite Division 3rd International Technical Meeting, Colorado Springs, Colorado, September 1990."
   awards:
     - "Outstanding Paper Award"
   url: "https://www.ion.org/publications/abstract.cfm?articleID=5105"
@@ -8681,7 +8681,7 @@
   category: conference
   authors: "Parkinson, Bradford W. and Fitzgibbon, Kevin T."
   title: "Aircraft Automatic Landing Systems Using GPS"
-  citation: "Invited paper published in the Proceedings of the International Congress of Navigation Societies, Sydney, Australia, February 1988."
+  citation: "(Invited paper) Published in the Proceedings of the International Congress of Navigation Societies, Sydney, Australia, February 1988."
   url: ""
 
 - year: 1988

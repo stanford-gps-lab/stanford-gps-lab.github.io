@@ -1553,6 +1553,63 @@ main h1:first-of-type {
   font-style: italic;
 }
 
+.research-page-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 0 1.75rem;
+  border-radius: 6px;
+}
+
+.research-content-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem 0;
+  border-radius: 6px;
+}
+
+.research-caption {
+  margin: 0.5rem 0 1.5rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.research-subheading {
+  color: var(--stanford-cardinal);
+}
+
+.research-link-list {
+  margin: 1.25rem 0 0;
+  padding-left: 1.3rem;
+  line-height: 1.8;
+}
+
+.research-link-list li {
+  margin-bottom: 0.35rem;
+}
+
+.research-link-list a {
+  color: var(--stanford-cardinal);
+  font-weight: 600;
+}
+
+.research-intro {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  margin: 0 0 1.5rem;
+}
+
+.research-thumbnail {
+  display: block;
+  width: 220px;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+  border-radius: 6px;
+}
+
 @media (max-width: 900px) {
   .research-layout {
     grid-template-columns: 1fr;
@@ -1938,3 +1995,5 @@ main h1:first-of-type {
     min-height: 0;
   }
 }
+
+

@@ -7,9 +7,9 @@ permalink: /research/current-and-continuing-gpspnt-research/cyber-safety-transpo
   {% include research-sidebar.html %}
 <div class="research-content">
   <h1>Cyber Safety for Transportation</h1>
-  <img src="{{ '/assets/img/research/cyber-safety-banner.jpg' | relative_url }}"
+  <!-- <img src="{{ '/assets/img/research/cyber-safety-banner.jpg' | relative_url }}"
        alt="Cyber Safety for Transportation"
-       class="research-page-image">
+       class="research-page-image"> -->
 
   <p class="research-intro">
     Tomorrow's transportation systems will be much more automated. It's likely
